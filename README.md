@@ -6,7 +6,7 @@
 
 ## 安卓Android
 
-|[V2RayNG-Google Play Store](https://play.google.com/store/apps/details?id=com.v2ray.ang)|[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases)|[Kitsunebi-Google Play Store](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=en_US)||[BifrostV-Google Play Store](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)||[BifrostV](https://github.com/V2Server/V2Ray/raw/master/bifrostv-v0.6.8.apk)|
+|[BifrostV](https://github.com/V2Server/V2Ray/raw/master/bifrostv-v0.6.8.apk)|[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases)|[V2RayNG-Google Play Store](https://play.google.com/store/apps/details?id=com.v2ray.ang)|[Kitsunebi-Google Play Store](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=en_US)|[BifrostV-Google Play Store](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)|
 
 ## 苹果iOS
 
