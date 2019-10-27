@@ -15,3 +15,8 @@
 ## 苹果Mac
 
 |[V2RayX](https://github.com/V2Server/V2Ray/raw/master/V2RayX.app.zip)|[V2RayX-GitHub](https://github.com/Cenmrev/V2RayX/releases)|
+
+## 其他-Help
+
+|[V2Ray使用帮助](https://v2server.github.io/Help/)|
+
