@@ -2,8 +2,6 @@
 
 ## 微软Windows
 
-|[V2RayN](http://d.v2server.ga/v2.zip)|
-
 |[V2RayN](https://github.com/V2Server/V2Ray/raw/master/v2rayN-Core.zip)|[V2RayN-GitHub](https://github.com/2dust/v2rayN/releases)|
 
 ## 安卓Android
