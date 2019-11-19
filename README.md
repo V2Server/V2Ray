@@ -12,7 +12,7 @@
 
 |[V2RayNG-arm64-v8a](https://github.com/V2Server/V2Ray/raw/master/app-arm64-v8a-release.apk)|[V2RayNG-armeabi-v7a](https://github.com/V2Server/V2Ray/raw/master/app-armeabi-v7a-release.apk)|[V2RayNG-x86](https://github.com/V2Server/V2Ray/raw/master/app-x86-release.apk)|[V2RayNG-x86_64](https://github.com/V2Server/V2Ray/raw/master/app-x86_64-release.apk)|[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases)|[V2RayNG-Google Play Store](https://play.google.com/store/apps/details?id=com.v2ray.ang)|
 
-[Kitsunebi-Google Play Store](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=en_US)|
+|[Kitsunebi-Google Play Store](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=en_US)|
 
 ## 苹果iOS
 
