@@ -14,7 +14,7 @@
 
 ## 安卓Android
 
-|[Kitsunebi](https://github.com/V2Server/V2Ray/raw/master/Kitsunebi_v1.7.2_apkpure.com.apk)|[Kitsunebi-Google Play Store](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=en_US)|[Kitsunebi-APK Pure](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)|
+|[Kitsunebi-APK Pure](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)|[Kitsunebi-Google Play Store](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=en_US)|
 
 |[BifrostV](https://github.com/V2Server/V2Ray/raw/master/bifrostv-v0.6.8.apk)|[BifrostV-Google Play Store](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)|[BifrostV-APK Pure](https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv)|
 
