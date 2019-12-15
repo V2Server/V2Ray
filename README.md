@@ -32,8 +32,8 @@
 
 ## V2Ray使用帮助
 
-|[V2Ray使用帮助](https://v2server.github.io/Help/)|
+|[V2Ray使用帮助](https://v2sx.github.io/Help/)|
 
-### [<< 返回首页](https://v2server.github.io/Help/)
+### [<< 返回首页](https://v2sx.github.io/Help/)
 
 
